@@ -1,10 +1,15 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
+      <h1>About Melanie</h1>
+      <p>
+        My favorite quote is: "don't work harder, work smarter. My nickname is
+        mel. I like writing, singing, and painting
+      </p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
